@@ -1,0 +1,2 @@
+You can open the Simulink model "JenaFox_moodle_ISB" and run it. Please make sure that all files of the repository are present in the current MATLAB working directory.
+The first time you run the model it will take some time (~5 minutes) to compile. IF you enable fast restart in SIMULINK and do not change the structure of the model, the restart should take much less time the next time. Changes in the controller should not affect the fast restart capability.
